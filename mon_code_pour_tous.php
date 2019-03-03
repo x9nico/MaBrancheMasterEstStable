@@ -1,5 +1,5 @@
 <?php
 
-  echo "salut"
+  echo "salut";
     
 ?>
